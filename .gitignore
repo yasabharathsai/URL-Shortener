@@ -1,0 +1,8 @@
+.env/
+__pycache__/
+urls.db
+qrcodes/
+
+frontend/node_modules/
+
+*.pyc
