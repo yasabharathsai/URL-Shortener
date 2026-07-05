@@ -114,6 +114,19 @@ frontend/
 
 ---
 
+
+## Live Demo
+
+Frontend:
+https://your-vercel-url.vercel.app
+
+Backend API Docs:
+https://url-shortener-api-bk8f.onrender.com/docs
+
+## GitHub Repository
+
+https://github.com/yourusername/URL-Shortener
+
 ## Author
 
 Yasa Bharathsai
