@@ -349,12 +349,12 @@ const handleSubmit = async (e) => {
               </button>
 
               <a
-                href={`http://127.0.0.1:8000/qr/${item.short_code}`}
-                target="_blank"
-                rel="noreferrer"
-              >
-                QR Code
-              </a>
+  href={`https://url-shortener-api-bk8f.onrender.com/qr/${item.short_code}`}
+  target="_blank"
+  rel="noreferrer"
+>
+  QR Code
+</a>
 
               <button
                 onClick={() =>
