@@ -29,7 +29,7 @@ from passlib.context import CryptContext
 
 
 DATABASE_URL= "sqlite:///urls.db"
-BASE_URL = "http://127.0.0.1:8000"
+BASE_URL = "https://url-shortener-api-bk8f.onrender.com"
 
 SECRET_KEY = "mysecretkey123456789"
 ALGORITHM = "HS256"
